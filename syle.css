@@ -1,0 +1,12 @@
+ p.head{
+    font-weight: 700;
+    font-size: 80px;
+    font-family: Impact;
+}
+button{width: 200px;
+background-color: blue;
+color: white;
+}
+button:hover{
+    background-color: green;
+}
